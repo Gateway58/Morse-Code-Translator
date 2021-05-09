@@ -5,3 +5,4 @@ New Word: 2 Space
 I have one update planned, but don't know when it will be happening.Maybe in 3 -2 Weeks or maybe longer.
 Hope it helps you.
 By bugs, errors, improvments: Dm me on instagram under gateway58s_trahsfactory
+This was more work than i thought. Thanks to EVERYONE who cloned this.thank you for appreciating my hobby for which I waste a LOT of time. :)
