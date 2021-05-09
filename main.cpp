@@ -182,8 +182,8 @@ string TranslateToNormalLetters(char MorseLetter)
 	case 'u': return "..- ";
 	case 'V': return "...- ";
 	case 'v': return "...- ";
-	case 'W': return ".- ";
-	case 'w': return ".- ";
+	case 'W': return ".-- ";
+	case 'w': return ".-- ";
 	case 'X': return ".-- ";
 	case 'x': return ".-- ";
 	case 'Y': return "-.-- ";
