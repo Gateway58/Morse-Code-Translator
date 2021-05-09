@@ -9,7 +9,6 @@ string TranslateToMorse(string YourSentence);
 string TranslateToNormalLetters(char MorseLetter); 
 bool DetermineIfMorseOrNot(string sentence); 
 string FindOut(string ToTranslate); //just for me to keep it clean
-#define LOGNDESTROYLATER(x) cout << x << endl; 
 int main()
 {
 	
