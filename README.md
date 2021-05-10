@@ -5,5 +5,4 @@ New Word: 2 Space. (in Morse Code mode)
 I have one update planned, but don't know when it will be happening.Maybe in 3 -2 Weeks or maybe longer.
 Hope it helps you.
 By bugs, errors, improvments: Dm me on instagram under gateway58s_trahsfactory
-This was more work than i thought. Thanks to EVERYONE who cloned this (And not just this repository).thank you for appreciating my hobby for which I waste a LOT of time. :)
-And I am sorry about the bugs, I really overlooked those, but most of them should be fixed now to work as intended. 
+This was more work than i thought. 
