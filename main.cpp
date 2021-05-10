@@ -8,7 +8,7 @@ vector<int>Stuff;
 string TranslateToMorse(string YourSentence); 
 string TranslateToNormalLetters(char MorseLetter); 
 bool DetermineIfMorseOrNot(string sentence); 
-string FindOut(string ToTranslate); //just for me to keep it clean
+string FindOut(string ToTranslate); //basically just translate to morse but to keep it clean
 int main()
 {
 	
