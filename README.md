@@ -4,5 +4,6 @@ New Letter: 1 Space.
 New Word: 2 Space. (in Morse Code mode only in normal language you can just type normal as you usually would)  
 I have one update planned, but don't know when it will be happening.Maybe in 3 -2 Weeks or maybe longer.
 Hope it helps you.
-By bugs, errors, improvments: Dm me on instagram under gateway58s_trahsfactory
+By bugs, errors, improvments: Dm me on instagram  @gateway58s_trahsfactory 
+https://instagram.com/gateway58s_trashfactory/
  
