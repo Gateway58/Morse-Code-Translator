@@ -141,6 +141,7 @@ string FindOut(string ToTranslate)
 	if (ToTranslate == "---.")return "Ö";
 	if (ToTranslate == "..--")return "Ü";
 	if (ToTranslate == "..-.-") return "_"; 
+	if (ToTranslate == "-..-.") return "/"; 
 	if (ToTranslate.empty())
 	{
 		return " ";
@@ -235,6 +236,7 @@ string TranslateToNormalLetters(char MorseLetter)
 	case 'ö': return "---. ";
 	case 'Ü': return "..-- ";
 	case 'ü': return "..-- ";
+	case "/": return "-..-."; 
 	case NULL: return " "; 
 	default:
 		break;
