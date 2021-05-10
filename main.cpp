@@ -260,9 +260,10 @@ bool DetermineIfMorseOrNot(string sentence)
 	int a_Index = sentence.find("a");
 	int n_Index = sentence.find("n");
 	int x_Index = sentence.find("x");
-	int i_index = sentence.find("i"); 
+	int ex_index = sentence.find("!"); 
+
 	
-	if (E_index == -1 && T_Index == -1 && A_Index == -1 && N_Index == -1 && X_Index == -1 && I_Index == -1 &&  e_index == -1 && t_Index == -1 && a_Index == -1 && n_Index == -1 && x_Index == -1 && i_index == -1)
+	if (E_index == -1 && T_Index == -1 && A_Index == -1 && N_Index == -1 && X_Index == -1 && I_Index == -1 &&  e_index == -1 && t_Index == -1 && a_Index == -1 && n_Index == -1 && x_Index == -1 && i_index == -1 && ex_index == -1)
 	{
 		return true; 
 	}
