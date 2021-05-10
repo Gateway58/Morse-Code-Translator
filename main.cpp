@@ -260,12 +260,24 @@ bool DetermineIfMorseOrNot(string sentence)
 	int a_Index = sentence.find("a");
 	int n_Index = sentence.find("n");
 	int x_Index = sentence.find("x");
-	int ex_index = sentence.find("!"); 
-
+	int num0 = sentence.find("0"); 
+	int num1 = sentence.find("1");
+	int num2 = sentence.find("2");
+	int num3 = sentence.find("3");
+	int num4 = sentence.find("4");
+	int num5 = sentence.find("5");
+	int num6 = sentence.find("6");
+	int num7 = sentence.find("7");
+	int num8 = sentence.find("8");
+	int num9 = sentence.find("9"); 
+	int add = sentence.find("+"); 
+	int div = sentence.find("/"); 
 	
-	if (E_index == -1 && T_Index == -1 && A_Index == -1 && N_Index == -1 && X_Index == -1 && I_Index == -1 &&  e_index == -1 && t_Index == -1 && a_Index == -1 && n_Index == -1 && x_Index == -1 && i_index == -1 && ex_index == -1)
+	if (E_index == -1 && T_Index == -1 && A_Index == -1 && N_Index == -1 && X_Index == -1 && I_Index == -1 && e_index == -1 && t_Index == -1 && a_Index == -1 && n_Index == -1 && x_Index == -1 && i_index == -1)
 	{
-		return true; 
+		return true;
 	}
+	else if (add == -1 && div == -1 && num0 == -1 && num1 == -1 && num2 == -1 && num3 == -1 && num4 == -1 && num5 == -1 && num6 == -1 && num7 == -1 && num8 == -1 && num9 == -1) return true; 
+	
 	return false; 
 }
